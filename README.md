@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm zay soulayma</h1>
-<h3 align="center">Développeure tunisienne en 5e année Génie informatique à POLYTECH Monastir</h3>
+<h3 align="center">Développeure tunisienne en 3e année Génie informatique à POLYTECH Monastir</h3>
 
 - 🔭 Développement d'une plateforme de gestion de stage [Plateforme de gestion des stages / PFE / PFA](https://github.com/soulaymazay/front-angular)
 
